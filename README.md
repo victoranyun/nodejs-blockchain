@@ -1,3 +1,3 @@
-# Node.JS Blockchain
+# Node.js Blockchain
 
 Under development
